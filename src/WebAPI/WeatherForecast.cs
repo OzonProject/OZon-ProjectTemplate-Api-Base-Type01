@@ -1,4 +1,4 @@
-namespace WebAPI;
+namespace Crpm.SampleApp.WebAPI;
 
 public class WeatherForecast
 {

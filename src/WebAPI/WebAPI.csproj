@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>SampleApp.WebAPI</AssemblyName>
-    <RootNamespace><OZon class="SampleApp WebAPI"></OZon></RootNamespace>
+    <RootNamespace>Crpm.SampleApp.WebAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

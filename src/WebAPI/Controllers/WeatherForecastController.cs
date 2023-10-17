@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using WebAPI;
 
-namespace Controllers;
+namespace Crpm.SampleApp.WebAPI.Controllers;
 
 [ApiController]
 [Route("[controller]")]
